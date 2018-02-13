@@ -1,6 +1,7 @@
 # AlarmClockUseCaseDiagram
 Alarm Clock Use Case Diagram
 
+Joseph Bertolino
 
 Suppose we want to develop software for an alarm clock.
 
